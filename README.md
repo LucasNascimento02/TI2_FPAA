@@ -74,7 +74,7 @@ Para o array `[5, 2, 8, 1]`:
 
 O diagrama abaixo ilustra o processo de divisão e conquista do algoritmo MaxMin Select:
 
-![Diagrama do Algoritmo MaxMin Select](assets/maxmin_select_diagram.drawio)
+![Diagrama do Algoritmo MaxMin Select](assets/maxmin_select_diagram.png)
 
 O diagrama mostra:
 1. A divisão do array original em subarrays menores
